@@ -16,3 +16,6 @@
     - open inventory with "Q", close it with "F"
     - when you aproach the shop, an coin icon will apear, press "E" to open the shop
     - click on item to buy it (if you have the available gold)
+
+
+Obs: Repo doesn't have Unity Library files.
